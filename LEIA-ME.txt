@@ -1,0 +1,13 @@
+CONVITE DIGITAL — MARIA CLARA, 15 ANOS
+
+Arquivos:
+- index.html: site completo do convite.
+
+Como usar:
+1. Publique o arquivo index.html no repositório GitHub Pages.
+2. O botão de confirmação abre o WhatsApp com uma mensagem pronta para o número informado.
+3. O botão de localização abre uma busca no Google Maps pelo endereço informado.
+
+Observação:
+O botão de WhatsApp prepara a mensagem, mas o convidado precisa tocar em Enviar.
+O endereço do mapa é uma busca pelo endereço digitado; confira o ponto exato no Maps antes de compartilhar.
